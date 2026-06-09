@@ -3,7 +3,6 @@ Markdown
 
 > A secure, dynamic web application designed to streamline pharmacy operations, manage medicine inventories, track sales, and handle multi-role user dashboards efficiently.
 
-🌐 **[View Live Demo](dufaxcare.great-site.net)**
 
 ---
 
