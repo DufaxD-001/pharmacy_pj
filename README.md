@@ -54,3 +54,10 @@ Follow these steps to set up and run this project locally on your machine using 
   Locate your database connection file (e.g., config.php, db.php, or connection.php).
 
   Ensure the database name matches the one you created in phpMyAdmin
+5.$dbname = "pharmacy_db";
+     ```
+  **Run the Application:**
+* Open your browser and navigate to:
+```text
+     http://localhost/pharmacy_pj/
+     ``` 
